@@ -15,8 +15,5 @@ while True:
 
 from pycparser.ply.yacc import resultlimit
 
-"""
-this is handdetector 
-"""
 
 
